@@ -29,7 +29,7 @@ Add a screenshot of your login page here:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/anishsharma90/Website-login-page.git
 ```
 
 ### 2. Open the project
@@ -37,7 +37,7 @@ git clone https://github.com/your-username/your-repository-name.git
 Go to the project folder:
 
 ```bash
-cd your-repository-name
+cd Website-login-page
 ```
 
 ### 3. Run the project
